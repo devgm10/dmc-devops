@@ -57,3 +57,26 @@ funcionalidad para cada nueva tarea. Este es un flujo recomendado para proyectos
 <p align="center">
   <img src="./img/lab-01/answer-02B.png" alt="answer-02B" width="800">
 </p>
+
+
+### Paso 03: Usar una Rama de Funcionalidad (Feature Branch)
+
+```bash
+    1.  Crea una nueva rama para tu trabajo y cámbiate a ella:
+
+        $ git checkout -b feature/add-description
+
+    2.  Añade contenido al README.md:
+
+        "Este repositorio contiene ejercicios para el curso de DevOps."
+
+    3.  Haz commit de tus cambios en esta rama:
+
+        $ git add README.md
+        $ git commit -m "Agregando descripción de proyecto"
+
+```
+
+<p align="center">
+  <img src="./img/lab-01/answer-03.png" alt="answer-03" width="800">
+</p>
