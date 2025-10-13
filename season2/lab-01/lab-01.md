@@ -48,7 +48,7 @@ funcionalidad para cada nueva tarea. Este es un flujo recomendado para proyectos
     6. Sube tus cambios a GitHub:
 
         $ git push origin main
-    ```
+```
 
 <p align="center">
   <img src="./img/lab-01/answer-02.png" alt="answer-02" width="800">
