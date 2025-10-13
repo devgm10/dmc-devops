@@ -6,7 +6,7 @@ Navegaremos juntos por un repositorio popular como [**microsoft/vscode**](https:
 
 ```bash
 1.  **Encontrar la Versión:** Localiza la sección "Releases" y anota el número de la última versión.
-```bash
+```
 
 
 <p align="center">
