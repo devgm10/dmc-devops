@@ -80,3 +80,26 @@ funcionalidad para cada nueva tarea. Este es un flujo recomendado para proyectos
 <p align="center">
   <img src="./img/lab-01/answer-03.png" alt="answer-03" width="800">
 </p>
+
+
+### Paso 04: Fusionar tus Cambios en main
+
+```bash
+    Una vez que tu trabajo en la rama de funcionalidad está completo, lo integras en la rama principal.
+
+    1.  Vuelve a la rama main:
+
+        $ git checkout main
+
+    2.  Fusiona los cambios desde tu rama de funcionalidad:
+
+        $ git merge feature/add-description
+
+    3.  Sube la rama main actualizada a GitHub:
+
+        $ git push origin main
+```
+
+<p align="center">
+  <img src="./img/lab-01/answer-04.png" alt="answer-04" width="800">
+</p>
