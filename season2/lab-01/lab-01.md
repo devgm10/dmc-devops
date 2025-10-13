@@ -23,41 +23,31 @@ funcionalidad para cada nueva tarea. Este es un flujo recomendado para proyectos
 
 ### Paso 02: Realizar un nuevo Commit
 
+```bash
     1.  Agregamos la siguiente linea dentro del archivo README.md
 
-    ```bash
         ## Repositorio de Práctica DevOps
-    ```
 
     2.  Prepara el archivo para ser versionado (lo añades al "Staging Area"):
 
-    ```bash
-        git add README.md
-    ```
+        $ git add README.md
 
     3.  Verificar estado de git del repositorio
 
-    ```bash
-        git status
-    ```
+        $ git status
 
     4.  Confirma los cambios en tu historial local. 
         (Se agrega el comando -m que hace referencia al mensaje que se escribirá a continuación)
 
-    ```bash
-        git commit -m "Modificacion de archivo README.md"
-    ```
+        $ git commit -m "Modificacion de archivo README.md"
 
     5.  Verificar estado de git del repositorio
 
-    ```bash
-        git status
-    ```
+        $ git status
 
     6. Sube tus cambios a GitHub:
 
-    ```bash
-        git push origin main
+        $ git push origin main
     ```
 
 <p align="center">
