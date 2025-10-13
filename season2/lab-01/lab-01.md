@@ -51,5 +51,9 @@ funcionalidad para cada nueva tarea. Este es un flujo recomendado para proyectos
 ```
 
 <p align="center">
-  <img src="./img/lab-01/answer-02.png" alt="answer-02" width="800">
+  <img src="./img/lab-01/answer-02A.png" alt="answer-02A" width="800">
+</p>
+
+<p align="center">
+  <img src="./img/lab-01/answer-02B.png" alt="answer-02B" width="800">
 </p>
