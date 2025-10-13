@@ -9,7 +9,7 @@ Repositorio a analizar [microsoft/vscode](https://github.com/microsoft/vscode).
 ```
 
 <p align="center">
-  <img src="./img/lab-01/answer-01.png" alt="answer-01ß" width="800">
+  <img src="./img/lab-01/answer-01.png" alt="answer-01" width="800">
 </p>
 
 
@@ -18,7 +18,7 @@ Repositorio a analizar [microsoft/vscode](https://github.com/microsoft/vscode).
 ```
 
 <p align="center">
-  <img src="./img/lab-01/answer-02.png" alt="answer-01ß" width="800">
+  <img src="./img/lab-01/answer-02.png" alt="answer-02" width="800">
 </p>
 
 
@@ -27,7 +27,7 @@ Repositorio a analizar [microsoft/vscode](https://github.com/microsoft/vscode).
 ```
 
 <p align="center">
-  <img src="./img/lab-01/answer-03.png" alt="answer-01ß" width="800">
+  <img src="./img/lab-01/answer-03.png" alt="answer-03" width="800">
 </p>
 
 
@@ -36,5 +36,5 @@ Repositorio a analizar [microsoft/vscode](https://github.com/microsoft/vscode).
 ```
 
 <p align="center">
-  <img src="./img/lab-01/answer-04.png" alt="answer-01ß" width="800">
+  <img src="./img/lab-01/answer-04.png" alt="answer-04" width="800">
 </p>
