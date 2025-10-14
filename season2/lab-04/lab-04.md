@@ -50,3 +50,17 @@ crítico en producción que debes solucionar de inmediato.
 <p align="center">
   <img src="./img/lab-04/answer-02.png" alt="answer-01" width="800">
 </p>
+
+
+### Paso 03: Desplegar el Hotfix
+
+```bash
+    1.  Sube la rama del hotfix a GitHub:
+        $ git push -u origin hotfix/critical-readme-update
+
+    2.  2. Ahora ve a GitHub y crea una Pull Request.
+```
+
+<p align="center">
+  <img src="./img/lab-04/answer-03.png" alt="answer-01" width="800">
+</p>
