@@ -30,3 +30,49 @@ escritura directo gestionandolos con Pull Requests (PRs).
 <p align="center">
   <img src="./img/lab-02/answer-01B.png" alt="answer-01B" width="800">
 </p>
+
+
+### Paso 02: Crea una nueva branch a partir de branch main
+
+```bash
+    1.  Crea una nueva rama para tu contribución:
+
+        $ git status
+        $ git checkout -b feature/add-new-contribution
+
+    2.  Edita el README.md para añadir tu:
+
+        "Contribución realizada a través de un pull request"
+
+    3.  Haz commit de tus cambios y súbelos a tu repositorio:
+
+        $ git add README.md
+        $ git commit -m "Agregar nueva contribución en repositorio"
+        $ git push origin feature/add-new-contribution
+```
+
+
+### Paso 03: Crear el Pull Request
+
+```bash
+    1.  Ve a la página de del Repositorio en GitHub. Verás un banner sugiriendo crear un Pull Request.
+        Haz clic en "Compare & Pull Request"
+
+    2.  Revisa que la rama base sea main y la rama de comparación sea feature/add-new-contribution.
+
+    3.  Escribe un título claro y una descripción para tu PR. Haz clic en "Create pull request".
+```
+
+### Paso 04: Fusión
+
+```bash
+    1.  Revisa que no hayan conflictos y valida los apartados del Pull Request:
+        °   "Conversation": Se pueden agregar comentarios y etiquetar a usuarios
+        °   "Commits": Revisar lista de commits que se agregaron en el Pull Request
+        °   "Checks": Revisión de Pipelines ejecutados, en este punto no tenemos pipelines configurados.
+        °   "Files changed": Modificaciones realizadas
+```
+
+<p align="center">
+  <img src="./img/lab-02/answer-02-03-04.png" alt="answer-02-03-04" width="800">
+</p>
