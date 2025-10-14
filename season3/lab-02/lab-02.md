@@ -53,7 +53,7 @@ Crearemos la estructura fundamental de nuestro Espacio.
 </p>
 
 
-### Paso 02: Poblar la Épica "Estructura y Contenido Base"
+### Paso 02: Poblar la Épica 1 "Estructura y Contenido Base"
 
 ```bash
     Crea las siguientes incidencias y asígnalas a la Épica 1:
@@ -104,4 +104,50 @@ Crearemos la estructura fundamental de nuestro Espacio.
 
 <p align="center">
   <img src="./img/lab-02/answer-02.png" alt="answer-02" width="900">
+</p>
+
+
+### Paso 03: Poblar la Épica 2 "Guías para Contribuidores"
+
+```bash
+    Crea y asigna a la Épica 2:
+
+    1.  Story:
+        -   Título:
+            Como desarrollador, quiero una guía de contribución (CONTRIBUTING.md)
+            para saber cómo proponer cambios al código.
+        
+        -   Descripción / Criterios de Aceptación:
+            "Dado" que soy un desarrollador que quiere contribuir.
+            "Cuando" abro el archivo CONTRIBUTING.md.
+            "Entonces" el documento debe explicar:
+                *   Cómo hacer un fork y clonar el repositorio.
+                *   Cómo instalar las dependencias de desarrollo.
+                *   Cómo ejecutar los tests.
+                *   El proceso para enviar un Pull Request.
+
+    2.  Story:
+        -   Título:
+            Como contribuidor, quiero una guía de estilo de código para asegurar que
+            mi código sea consistente con el del Espacio.
+        
+        -   Descripción / Criterios de Aceptación:
+            "Dado" que estoy preparando un Pull Request.
+            "Cuando" consulto la guía de estilo.
+            "Entonces" debo encontrar:
+                *   Un enlace a la configuración del linter (ej. ESLint, Prettier).
+                *   Las convenciones de nombrado para variables, funciones y clases.
+                *   Instrucciones sobre cómo formatear mi código automáticamente antes de
+                    hacer commit.
+
+    3.  Task:
+        -   Título: Crear plantillas para Issues y Pull Requests en GitHub.
+
+        -   Descripción: Crear los archivos de plantilla de Markdown dentro de la carpeta
+            .github/ISSUE_TEMPLATE y .github/PULL_REQUEST_TEMPLATE.md. Se deben crear 
+            plantillas para "Reporte de Bug" y "Propuesta de Nueva Funcionalidad".
+```
+
+<p align="center">
+  <img src="./img/lab-02/answer-03.png" alt="answer-03" width="900">
 </p>
