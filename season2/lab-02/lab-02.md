@@ -24,9 +24,9 @@ escritura directo gestionandolos con Pull Requests (PRs).
 ```
 
 <p align="center">
-  <img src="./img/lab-01/answer-01A.png" alt="answer-01A" width="800">
+  <img src="./img/lab-02/answer-01A.png" alt="answer-01A" width="800">
 </p>
 
 <p align="center">
-  <img src="./img/lab-01/answer-01B.png" alt="answer-01B" width="800">
+  <img src="./img/lab-02/answer-01B.png" alt="answer-01B" width="800">
 </p>
