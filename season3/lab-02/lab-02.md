@@ -51,3 +51,57 @@ Crearemos la estructura fundamental de nuestro Espacio.
 <p align="center">
   <img src="./img/lab-02/answer-01C.png" alt="answer-01C" width="900">
 </p>
+
+
+### Paso 02: Poblar la Épica "Estructura y Contenido Base"
+
+```bash
+    Crea las siguientes incidencias y asígnalas a la Épica 1:
+
+    1.  Story:
+        -   Título:
+            Como nuevo visitante del repo, quiero un README claro y
+            conciso para entender el propósito del Espacio en 1 minuto.
+        
+        -   Descripción / Criterios de Aceptación:
+            "Dado" que abro la página principal del repositorio en GitHub.
+            "Cuando" leo el archivo README.md.
+            "Entonces" debo encontrar claramente:
+                *   El nombre del Espacio.
+                *   Una descripción de 1-2 frases sobre qué problema resuelve.
+                *   Un enlace a la guía de "Instalación Rápida".
+                *   Un badge que muestre el estado del build (CI).
+
+    2.  Story:
+        -   Título:
+            Como usuario no técnico, quiero una guía de "Instalación
+            Rápida" para poder usar el Proyecto sin ser un experto.
+        
+        -   Descripción / Criterios de Aceptación:
+            "Dado" que estoy en el sitio de la documentación.
+            "Cuando" navego a la sección "Instalación Rápida".
+            "Entonces" la guía debe contener:
+                *   Los prerrequisitos de software (ej. Node.js v18+).
+                *   Comandos exactos que pueda copiar y pegar para instalar y ejecutar el espacio.
+                *   Una captura de pantalla que muestre el resultado esperado tras la ejecución
+
+    3.  Task:
+        -   Título: Investigar y elegir una herramienta para generar la documentación.
+
+        -   Descripción: Realizar un análisis comparativo entre MkDocs, Docusaurus y VitePress.
+            La comparación debe evaluar: facilidad de uso, personalización, ecosistema de plugins y
+            rendimiento. El entregable será un documento breve en Confluence o un comentario en
+            esta misma tarea con la decisión final y su justificación.
+
+    4.  Task:
+        -   Título: Definir la estructura de carpetas para los archivos de documentación.
+
+        -   Descripción: Proponer una estructura de directorios lógica para almacenar los archivos
+            fuente de la documentación (ej. Markdown). La estructura debe ser escalable y separar
+            claramente guías de usuario, tutoriales y referencias de API. El entregable es un
+            esquema de la estructura de carpetas en formato de texto.
+```
+
+<p align="center">
+  <img src="./img/lab-02/answer-02.png" alt="answer-02" width="900">
+</p>
