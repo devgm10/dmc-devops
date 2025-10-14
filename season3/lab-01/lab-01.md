@@ -39,3 +39,26 @@ las secciones clave.
 <p align="center">
   <img src="./img/lab-01/answer-01.png" alt="answer-01" width="900">
 </p>
+
+
+### Paso 02: Exploración de la Interfaz
+
+```bash
+    1.  Lo primero que verás es el Tablero (Board). Por defecto, la plantilla Scrum crea tres columnas: 
+
+        -   "Por hacer" (To Do),
+
+        -   "En curso" (In Progress) y 
+
+        -   "Hecho" (Done).
+
+    2.  Explora el Menú Superior:
+        -   Tablero (Board): Es la vista que ya conoces.
+
+        -   Backlog: Aquí vivirá la lista completa de todas las tareas y requerimientos del Espacio.
+            Es nuestra "lista de deseos" priorizada.
+
+        -   Código (Code): Esta sección se activará cuando conectemos GitHub.
+
+        -   Reportes (Reports): Un panel con métricas visuales para entender el rendimiento del equipo.
+```
