@@ -61,3 +61,32 @@ Aprender a priorizar, personalizar el flujo de trabajo y planificar un Sprint.
 <p align="center">
   <img src="./img/lab-03/answer-02B.png" alt="answer-02B" width="900">
 </p>
+
+
+### Paso 03: Crear y Planificar el Sprint 1
+
+```bash
+    1.  Regresa al Backlog.
+
+    2.  Arrastra las siguientes incidencias al Sprint 1:
+        -   (Bug) El enlace a la licencia...
+        -   (Story) Como nuevo visitante... quiero un README claro...
+        -   (Task) Investigar y elegir una herramienta...
+
+    3.  Agregar puntaje a cada una (Siguiendo planning poker:
+        https://www.atlassian.com/blog/platform/scrum-poker-for-agile-projects)
+
+    4.  Haz clic en "Iniciar Sprint".
+
+    5.  Duración: Elige "1 semana".
+
+    6.  Objetivo del Sprint (Sprint Goal): 
+        "Al final del Sprint, tendremos un README funcional, el bug de la licencia
+        corregido y la herramienta de documentación seleccionada para empezar a trabajar."
+
+    7. Haz clic en "Iniciar".
+```
+
+<p align="center">
+  <img src="./img/lab-03/answer-03.png" alt="answer-03" width="900">
+</p>
