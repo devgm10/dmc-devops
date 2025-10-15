@@ -55,5 +55,9 @@ Aprender a priorizar, personalizar el flujo de trabajo y planificar un Sprint.
 ```
 
 <p align="center">
-  <img src="./img/lab-03/answer-01.png" alt="answer-01" width="900">
+  <img src="./img/lab-03/answer-02A.png" alt="answer-02A" width="900">
+</p>
+
+<p align="center">
+  <img src="./img/lab-03/answer-02B.png" alt="answer-02B" width="900">
 </p>
