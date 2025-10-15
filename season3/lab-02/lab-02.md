@@ -213,7 +213,7 @@ Crearemos la estructura fundamental de nuestro Espacio.
             *   Entorno:
                 Navegador: Chrome (última versión)
                 SO: Independiente del sistema operativo
-
+```
 
 <p align="center">
   <img src="./img/lab-02/answer-05.png" alt="answer-05" width="900">
