@@ -151,3 +151,38 @@ Crearemos la estructura fundamental de nuestro Espacio.
 <p align="center">
   <img src="./img/lab-02/answer-03.png" alt="answer-03" width="900">
 </p>
+
+
+### Paso 04: Poblar la Épica 3 "Automatización y Despliegue"
+
+```bash
+    Crea y asigna a la Épica 3:
+
+    1.  Story:
+        -   Título:
+            Como mantenedor del Espacio, quiero que el sitio de documentación 
+            se actualice automáticamente cada vez que se fusiona un cambio en
+            la rama principal.
+        
+        -   Descripción / Criterios de Aceptación:
+            "Dado" que un Pull Request ha sido aprobado y fusionado en la rama main.
+            "Cuando" el pipeline de CI/CD finaliza.
+            "Entonces" el sitio web público de la documentación (ej. en GitHub Pages)
+            debe reflejar los nuevos cambios en menos de 5 minutos.
+
+    2.  Task:
+        -   Título: Configurar un pipeline de CI/CD con GitHub Actions para el despliegue
+            de la documentación.
+
+        -   Descripción: Crear un archivo de workflow de GitHub Actions (.github/workflows/docs.yml)
+            que se active en cada push a la rama main. El pipeline debe realizar los siguientes pasos:}
+            
+                1. Checkout del código, 
+                2. Instalar dependencias,
+                3. Construir el sitio estático de la documentación.
+                4. Desplegar los artefactos construidos a la rama gh-pages.
+```
+
+<p align="center">
+  <img src="./img/lab-02/answer-04.png" alt="answer-04" width="900">
+</p>
