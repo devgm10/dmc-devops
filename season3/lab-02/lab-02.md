@@ -186,3 +186,35 @@ Crearemos la estructura fundamental de nuestro Espacio.
 <p align="center">
   <img src="./img/lab-02/answer-04.png" alt="answer-04" width="900">
 </p>
+
+
+### Paso 05: Crear un Bug
+
+```bash
+    Crea una nueva incidencia:
+
+    1.  Bug:
+        -   Título:
+            El enlace a la licencia en el README está roto (error 404).
+        
+        -   Descripción:
+            *   Pasos para reproducir:
+                1. Ir a la página principal del repositorio en GitHub.
+                2. Buscar la sección "Licencia" en el README.md.
+                3. Hacer clic en el enlace del nombre de la licencia (ej. "MIT License").
+            
+            *   Comportamiento Actual:
+                El navegador muestra una página de error 404 de GitHub.
+            
+            *   Comportamiento Esperado:
+                El navegador debe abrir el archivo LICENSE que se encuentra en la raíz del
+                repositorio.
+
+            *   Entorno:
+                Navegador: Chrome (última versión)
+                SO: Independiente del sistema operativo
+
+
+<p align="center">
+  <img src="./img/lab-02/answer-05.png" alt="answer-05" width="900">
+</p>
